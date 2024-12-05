@@ -1,6 +1,6 @@
 --------Steps to follow------------
 
-***Click QuickFit1.zip>>>Download
+***Click QuickFit1.zip>>>Download***
 
 ***Click on Code>>Download zip***  --If u can diirectly download zip file ignore this
 
