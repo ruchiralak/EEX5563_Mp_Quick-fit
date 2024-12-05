@@ -2,7 +2,7 @@
 
 ***Click QuickFit1.zip>>>Download***
 
-***Click on Code>>Download zip***  --If u can diirectly download zip file ignore this
+***Click on Code>>Download zip***  --If u can diirectly download QuickFit1.zip file ignore this
 
 ***Extract download zip file and again extract QuickFit1.zip file and  open it with pycharm and run.***
 
