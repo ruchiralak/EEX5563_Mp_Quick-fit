@@ -1,8 +1,8 @@
 --------Steps to follow------------
 
+***Code>>Download zip***
 
-
-***Download QuickFit1.zip file and extract it open it with pycharm and run.***
+*** Extract download zip file and again extract QuickFit1.zip file and  open it with pycharm and run.***
 
 Had to upload Zip file bcz when normally pushing to github,  packages and library won't include in commit. 
 
