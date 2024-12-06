@@ -12,6 +12,8 @@ And that gonna make algorithm not workable (phyQt5 included ).
 
 ***this script cannot run using a terminal(cmd) bcz errors pop up(phyQt5 library).So use pycharm*** 
 
+-----For run the project without source code just download the release (before download the release **turn off real time protection**)
+
 **---------------------------steps to follow if you use Vscode-----------------**
 
  ***Install the Python Extension***
