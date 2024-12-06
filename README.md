@@ -6,6 +6,8 @@
 
 ***Extract download zip file and again extract QuickFit1.zip file and  open it with pycharm and run.***
 
-Had to upload Zip file bcz when normally pushing to github,  packages and library won't include in commit. 
+(Had to upload Zip file bcz when  pushing to github,  packages and library won't include in commit.) 
 
-And that gonna make algorithm not workable (phyQt5 included )
+And that gonna make algorithm not workable (phyQt5 included ).
+
+***this script cannot run using a terminal(cmd) bcz errors pop up.So use pycharm***
