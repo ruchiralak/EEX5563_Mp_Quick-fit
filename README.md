@@ -18,17 +18,17 @@ Double-click mp.exe to run the program.
 
 **Download the Files**
 
-If available, download **QuickFit1.zip** directly.
+Download **QuickFit1.zip** directly.
 
 If not, click on Code > Download ZIP. Extract it, and then extract QuickFit1.zip.
 
-Open in PyCharm
+Open  PyCharm
 
 Open the extracted folder in PyCharm.
 
 Run the script.
 
-**Note**: Some libraries like PyQt5 may not be included in GitHub commits, so the ZIP file includes all required dependencies.
+**Note**: Some libraries like PyQt5 may not be included in GitHub commits therefore had to upload a  ZIP file that includes all required dependencies.
 
 💻 **Using VS Code**
 
@@ -42,7 +42,7 @@ Install the extension.
 
 Set Up the Python Interpreter
 
-**Open the folder containing your Python script in VS Code.**
+**Open the folder containing mp.py Python script in VS Code.**
 
 **Select a Python interpreter:**
 
