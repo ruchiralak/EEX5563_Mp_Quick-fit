@@ -12,7 +12,7 @@ And that gonna make algorithm not workable (phyQt5 included ).
 
 ***this script cannot run using a terminal(cmd) bcz errors pop up(phyQt5 library).So use pycharm*** 
 
----------------------------steps to follow if you use **Vscode**-----------------
+**---------------------------steps to follow if you use Vscode-----------------**
 
  ***Install the Python Extension***
 01. Open VS Code.
@@ -34,6 +34,6 @@ And that gonna make algorithm not workable (phyQt5 included ).
 
 01. Run Button: Click the "Run" button (▶️) at the top-right corner of the editor.
    
-02.Context Menu: Right-click anywhere in the script and select "Run Python File in Terminal."
+ 02.Context Menu: Right-click anywhere in the script and select "Run Python File in Terminal."
 
 03. Keyboard Shortcut: Press Ctrl+F5 to run the script without debugging, or F5 to run with debugging.
